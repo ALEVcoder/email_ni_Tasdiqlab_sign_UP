@@ -6,13 +6,13 @@ Tizimga kirish uchun emailga token yuboriladi token tasdiqlash uchun. kiyin tizi
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# I am Hrishikesh , HRISHIKESH-CODER . 
+# Men ALEVcoder man , Assalomu alaykum Hurmatli mijoz . 
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 
-#### :computer: Programming languages and tools: 
+#### :computer: Dasturlash tillari va vositalari: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
@@ -29,7 +29,7 @@ Tizimga kirish uchun emailga token yuboriladi token tasdiqlash uchun. kiyin tizi
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-<h4>Skills and Tools: </h4>
+<h4>Ko'nikmalar va asboblar: </h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
@@ -46,7 +46,7 @@ Tizimga kirish uchun emailga token yuboriladi token tasdiqlash uchun. kiyin tizi
  
 </p>
 
-<h4>Desktop Environment: </h4>
+<h4>Ish stoli muhitit: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
