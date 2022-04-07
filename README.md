@@ -7,7 +7,6 @@ Tizimga kirish uchun emailga token yuboriladi token tasdiqlash uchun. kiyin tizi
 </div>
 
 # I am Hrishikesh , HRISHIKESH-CODER . 
-## I am a programmer
 
 - <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
 - <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java . 
@@ -20,16 +19,6 @@ Tizimga kirish uchun emailga token yuboriladi token tasdiqlash uchun. kiyin tizi
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
